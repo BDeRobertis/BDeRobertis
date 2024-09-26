@@ -1,6 +1,7 @@
 👋 Hola, soy Bianca De Robertis!
 
-👀 Soy Analista de Datos.
+👀 Soy Analista de Datos.                         ![image](https://github.com/user-attachments/assets/304e586f-c35f-4b9f-aae8-e0fd80405049)
+
 
 💞️ Busco oportunidades para aplicar mis habilidades en el análisis de datos a través de la colaboración en proyectos desafiantes.
 
@@ -35,7 +36,7 @@ LENGUAJES DE PROGRAMACIÓN:
  
 
 
-![image](https://github.com/user-attachments/assets/7f03954f-45df-485d-b892-4bc18bfe4a9b) ![image](https://github.com/user-attachments/assets/e58f53f4-4d07-48b0-92a9-b40e8825ef04)
+
 
  
 <!---
