@@ -35,8 +35,9 @@ LENGUAJES DE PROGRAMACIÓN:
  
 
 
-![image](https://github.com/user-attachments/assets/89be4510-45c9-41c0-a9ec-6aa4c361703a)
+![image](https://github.com/user-attachments/assets/89be4510-45c9-41c0-a9ec-6aa4c361703a)  ![image](https://github.com/user-attachments/assets/e58f53f4-4d07-48b0-92a9-b40e8825ef04)
 
+ 
 <!---
 BDeRobertis/BDeRobertis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
