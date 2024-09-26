@@ -1,6 +1,6 @@
 👋 Hola, soy Bianca De Robertis!
 
-👀 Estoy interesada en el Analisis de Datos.
+👀 Soy Analista de Datos.
 
 💞️ Busco oportunidades para aplicar mis habilidades en el análisis de datos a través de la colaboración en proyectos desafiantes.
 
