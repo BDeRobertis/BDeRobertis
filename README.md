@@ -1,4 +1,4 @@
-👋 Hola, soy @BDeRobertis
+👋 Hola, soy Bianca De Robertis!
 
 👀 Estoy interesada en el Analisis de Datos.
 
@@ -9,6 +9,9 @@
 ⚡Valoro enormemente la dinámica de los proyectos en equipo y considero que aportan una gran riqueza a los resultados finales.
 
 ✨Manejo SQL, Python y herramientas clave como Power BI y Excel para transformar datos en información valiosa. He participado en proyectos donde la visualización y el análisis de datos fueron fundamentales para obtener mejores resultados.
+
+![image](https://github.com/user-attachments/assets/89be4510-45c9-41c0-a9ec-6aa4c361703a)
+
 <!---
 BDeRobertis/BDeRobertis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
