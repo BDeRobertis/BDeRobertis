@@ -35,7 +35,7 @@ LENGUAJES DE PROGRAMACIÓN:
  
 
 
-![image](https://github.com/user-attachments/assets/89be4510-45c9-41c0-a9ec-6aa4c361703a)  ![image](https://github.com/user-attachments/assets/e58f53f4-4d07-48b0-92a9-b40e8825ef04)
+![image](https://github.com/user-attachments/assets/7f03954f-45df-485d-b892-4bc18bfe4a9b) ![image](https://github.com/user-attachments/assets/e58f53f4-4d07-48b0-92a9-b40e8825ef04)
 
  
 <!---
