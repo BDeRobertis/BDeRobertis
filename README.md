@@ -31,7 +31,7 @@ Lenguajes de Programación:
 
 
  📫 Cómo contactarme: https://www.linkedin.com/in/bianca-de-robertis / biancaderobertiss19977@gmail.com /  https://wa.me/+5491126977502 
- País: Argentina 
+
  
 
 
