@@ -3,7 +3,7 @@
 👀 Soy Analista de Datos.                        
 
 
-💞️ Busco oportunidades para aplicar mis habilidades en el análisis de datos a través de la colaboración en proyectos desafiantes.
+📉 Busco oportunidades para aplicar mis habilidades en el análisis de datos a través de la colaboración en proyectos desafiantes.
 
 ⚡Valoro enormemente la dinámica de los proyectos en equipo y considero que aportan una gran riqueza a los resultados finales.
 
@@ -30,7 +30,9 @@ Lenguajes de Programación:
 
 
 
- 📫 Cómo contactarme: https://www.linkedin.com/in/bianca-de-robertis / biancaderobertiss19977@gmail.com
+ 📫 Cómo contactarme: https://www.linkedin.com/in/bianca-de-robertis / biancaderobertiss19977@gmail.com /  https://wa.me/1126977502 
+ País: Argentina 
+ 
 
 
  
